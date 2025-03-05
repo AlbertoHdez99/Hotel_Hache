@@ -168,6 +168,8 @@ namespace GestionReservacionesHotel
         {
             return $"{Nombre} - Habitación {Habitacion} - {Noches} noches";
         }
+
+        // Comentario de prueba para Git/GitHub
     }
 }
 
