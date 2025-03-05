@@ -1,0 +1,10 @@
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\bin\Debug\GestionReservacionesHotel.exe.config
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\bin\Debug\GestionReservacionesHotel.exe
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\bin\Debug\GestionReservacionesHotel.pdb
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\obj\Debug\GestionReservacionesHotel.csproj.AssemblyReference.cache
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\obj\Debug\GestionReservacionesHotel.Properties.Resources.resources
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\obj\Debug\GestionReservacionesHotel.csproj.GenerateResource.cache
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\obj\Debug\GestionReservacionesHotel.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\obj\Debug\GestionReservacionesHotel.exe
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\obj\Debug\GestionReservacionesHotel.pdb
+C:\Users\Alberto Hernández\Documents\UDB\CICLO 2\Desarrollo de aplicaciones con software propietario\Unidad 2\Desafío práctica 1\GestionReservacionesHotel\obj\Debug\GestionReservacionesHotel.Form1.resources
